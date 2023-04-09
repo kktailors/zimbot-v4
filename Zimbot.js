@@ -7371,7 +7371,7 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
   var buttonReplyy = [
           { urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/919640440407` } },
           { urlButton: { displayText: `SOURCECODE🥦`, url: `https://wa.me/919640440407` } },
-          { urlButton: { displayText: `WEBSITE🍎`, url: https://wa.me/919640440407` } }
+          { urlButton: { displayText: `WEBSITE🍎`, url: 'https://wa.me/919640440407` } }
         ]
         animemenu1(from, anu, '', buttonReplyy)
         }

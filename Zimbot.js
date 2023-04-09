@@ -7371,7 +7371,7 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
   var buttonReplyy = [
           { urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/919640440407` } },
           { urlButton: { displayText: `SOURCECODE🥦`, url: `https://wa.me/919640440407` } },
-          { urlButton: { displayText: `WEBSITE🍎`, url: 'https://wa.me/919640440407` } }
+          { urlButton: { displayText: `WEBSITE🍎`, url: `https://wa.me/919640440407` } }
         ]
         animemenu1(from, anu, '', buttonReplyy)
         }
@@ -7438,7 +7438,7 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
 				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/919640440407` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://wa.me/919640440407` } },
 				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://wa.me/919640440407` } }
 			]
 			convertmenu1(from, anu, '', buttonReplyy)
@@ -7503,7 +7503,7 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 var buttonReplyy = [
 				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/919640440407` } },
 				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://wa.me/919640440407` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://wa.me/447441437150` } }
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://wa.me/919640440407` } }
 			]
 			toolmenu1(from, anu, '', buttonReplyy)
 			}
@@ -7579,7 +7579,7 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 var buttonReplyy = [
 				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/919640440407` } },
 				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://wa.me/919640440407` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://wa.me/447441437150` } }
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://wa.me/919640440407` } }
 			]
 			saerchmenu11(from, anu, '', buttonReplyy)
 			}

@@ -1,5 +1,5 @@
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮MARK-k INC 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -37,29 +37,29 @@ global.APIKeys = {
 global.Api = new (require('./plugins/neoxrApi.js'))(process.env.API_KEY)
 
 //settings
-global.owner = ['+447441437150',''] //owner number ++447441437150
-global.wame = ['+447441437150'] 
-global.pemilik = ['+447441437150'] //owner number ++447441437150
-global.premium = ['+447441437150'] //premium number ++447441437150
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
-global.ownernma = 'Drips' //owner name
+global.owner = ['+919640440407',''] //owner number ++447441437150
+global.wame = ['+919640440407'] 
+global.pemilik = ['+919640440407'] //owner number ++447441437150
+global.premium = ['+919640440407'] //premium number ++447441437150
+global.pengguna = 'kawinraju' //username
+global.footer = 'MARK-k INC'
+global.botnma = 'MARK-k INC' //bot name
+global.botname = 'MARK-k V2'
+global.ownernma = 'kawinraju' //owner name
 global.packname = 'Drips' //sticker package name
 global.author = 'By Drips Memes' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
-global.max_upload = 100
-global.dripstyping = false
+global.max_upload = 100000
+global.dripstyping = true
 global.dripsreadgroup = false
 global.dripsreadall = true
 global.dripsrecord = true
 global.available = false
 global.unavailable = false
-global.limittot = 100,
-global.thumb = fs.readFileSync('./Zimbot/drips.jpg')
+global.limittot = 1000000,
+global.thumb = fs.readFileSync('./Zimbot/k.png')
 global.reactmoji = '🇿🇼'
 global.imgjoinrpg = fs.readFileSync('./image/joinrpg.jpg')
 global.imgmining = fs.readFileSync('./image/mining.jpg')
@@ -79,19 +79,19 @@ global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tru
 global.mess = {
     success: 'Takaenda Done!',
     admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
-    owner: '*this feature is only for zimbot owner*',
+    botAdmin: '*MARK_K  must be admin first!*',
+    owner: '*this feature is only for MARK-K owner*',
     group: '*Feature is only for groups!*',
     grouponly: '*Group Mode Only*',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature in only for the bot number',
-    wait: '*whoa wait a moment zim bot proccessing*',
+    wait: '*whoa wait a moment MARK_K proccessing*',
     endLimit: '*Your daily limit has expired the limit will be reseted every 12 hours*',
     noPetualang: '*you are not in rpg database type #joinrpg* _ur name_'
 }
 global.limitawal = {
     premium: "Infinity", //premium user limit
-    free: 100000 //free user limit
+    free: "Infinity" //free user limit
 }
 global.rpg = {
 darahawal: 100,

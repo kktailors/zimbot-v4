@@ -8,7 +8,7 @@
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮blessedtuna@mail.uk
 //▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/@zim-bot
+//▮YOUTUBE CHANNELL: https://wa.me/919640440407
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -178,7 +178,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
@@ -197,7 +197,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
  hydratedButtons: content,
 },
 },
@@ -216,7 +216,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
@@ -235,7 +235,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
@@ -254,7 +254,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
@@ -273,7 +273,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
@@ -290,7 +290,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
@@ -312,7 +312,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
@@ -331,7 +331,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
@@ -350,7 +350,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
@@ -369,7 +369,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
@@ -388,7 +388,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
@@ -721,7 +721,7 @@ hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
 hydratedButtons:  [{        
     "urlButton": {
       "displayText": "SUBSCRIBE",
-      "url": "https://youtube.com/@zim-bot"
+      "url": "https://wa.me/919640440407"
     }
 }, {
 quickReplyButton: {
@@ -774,7 +774,7 @@ var hg = `
   hydratedButtons:  [{        
       "urlButton": {
         "displayText": "SUBSCRIBE",
-        "url": "https://youtube.com/@zim-bot"
+        "url": "https://wa.me/919640440407"
       }
   }, {
   quickReplyButton: {
@@ -823,7 +823,7 @@ var hg = `*Mission to kill Slime*\n\n🎁 *Reward for killing Slime*\n ┊ *Mone
           hydratedButtons:  [{        
               "urlButton": {
                 "displayText": "SUBSCRIBE",
-                "url": "https://youtube.com/@zim-bot"
+                "url": "https://wa.me/919640440407"
               }
           }, {
           quickReplyButton: {
@@ -872,7 +872,7 @@ var hg = `*Mission to kill Slime*\n\n🎁 *Reward for killing Slime*\n ┊ *Mone
             hydratedButtons:  [{        
                 "urlButton": {
                   "displayText": "SUBSCRIBE",
-                  "url": "https://youtube.com/@zim-bot"
+                  "url": "https://wa.me/919640440407"
                 }
             }, {
             quickReplyButton: {
@@ -921,7 +921,7 @@ var hg = `*Mission to kill Slime*\n\n🎁 *Reward for killing Slime*\n ┊ *Mone
             hydratedButtons:  [{        
                 "urlButton": {
                   "displayText": "SUBSCRIBE",
-                  "url": "https://youtube.com/@zim-bot"
+                  "url": "https://wa.me/919640440407"
                 }
             }, {
             quickReplyButton: {
@@ -971,7 +971,7 @@ var hg = `*Mission to kill Slime*\n\n🎁 *Reward for killing Slime*\n ┊ *Mone
               hydratedButtons: [{        
               "urlButton": {
               "displayText": "SUBSCRIBE",
-              "url": "https://youtube.com/@zim-bot"
+              "url": "https://wa.me/919640440407"
               }
             }, {
               quickReplyButton: {
@@ -1022,7 +1022,7 @@ var hg = `*Mission to kill Slime*\n\n🎁 *Reward for killing Slime*\n ┊ *Mone
               hydratedButtons: [{        
               "urlButton": {
               "displayText": "SUBSCRIBE",
-              "url": "https://youtube.com/@zim-bot"
+              "url": "https://wa.me/919640440407"
               }
             }, {
               quickReplyButton: {
@@ -1068,7 +1068,7 @@ var hg = `*Mission to kill Slime*\n\n🎁 *Reward for killing Slime*\n ┊ *Mone
             hydratedButtons:  [{        
                 "urlButton": {
                   "displayText": "SUBSCRIBE",
-                  "url": "https://youtube.com/@zim-bot"
+                  "url": "https://wa.me/919640440407"
                 }
             }, {
             quickReplyButton: {
@@ -1418,7 +1418,7 @@ setInterval(() => {
 //But5Loc
 var nextMinutes = Math.random() * 300 + 1000;
 setTimeout(function(){
-  ZimBotInc.sendMessage(ZimBotInc.user.id, {text: `*ᴢɪᴍ ʙᴏᴛ ɪɴᴄ ANNOUNCEMENT:* *SUBSCRIBE TO DRIPS OFC*\n\n*YOUTUBE:* https://youtube.com/@zim-bot\n\n*NEW FEATURES COMING SOON SO STAY TUNED*\n\n*FEEL FREE TO BRING IDEAS OF THE FEATURES ON THE TABLE*\n\n*IF YOU WANT TO CONTRUBUTE FORK THE REPO, MAKE CHANGES PUSH YOUR CHANGES TO THE ORIGIN BRANCH AND WAIT FOR YOUR PULL REQUEST TO BE VERIFIED*\n\n*Thanks for choosing zim-bot*`,contextInfo: { externalAdReply:{title:"ᴢɪᴍ ʙᴏᴛ ᴠ5",body:"SUBSCRIBE DRIPS OFC",showAdAttribution: true,mediaType:2,thumbnail: fs.readFileSync(`./drips.jpg`) ,mediaUrl:`https://youtu.be/KNu-gr2h7bo`, sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
+  ZimBotInc.sendMessage(ZimBotInc.user.id, {text: `*ᴢɪᴍ ʙᴏᴛ ɪɴᴄ ANNOUNCEMENT:* *SUBSCRIBE TO DRIPS OFC*\n\n*YOUTUBE:* https://wa.me/919640440407\n\n*NEW FEATURES COMING SOON SO STAY TUNED*\n\n*FEEL FREE TO BRING IDEAS OF THE FEATURES ON THE TABLE*\n\n*IF YOU WANT TO CONTRUBUTE FORK THE REPO, MAKE CHANGES PUSH YOUR CHANGES TO THE ORIGIN BRANCH AND WAIT FOR YOUR PULL REQUEST TO BE VERIFIED*\n\n*Thanks for choosing zim-bot*`,contextInfo: { externalAdReply:{title:"ᴢɪᴍ ʙᴏᴛ ᴠ5",body:"SUBSCRIBE DRIPS OFC",showAdAttribution: true,mediaType:2,thumbnail: fs.readFileSync(`./drips.jpg`) ,mediaUrl:`https://youtu.be/KNu-gr2h7bo`, sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
   //anouncement by drips 
 }, nextMinutes * 300 * 1000);
 const send5Butlmg = async (jid , text = '' , footer = '', img, but = [], options = {}) =>{
@@ -1825,7 +1825,7 @@ downloader.downloadAPK("com.microbees.floatingapp")
  case 'sc': case 'script': case 'donate': case 'donasi': case 'donate': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
 
   teks = `
-  *ZIM-BOT-V4*\n\n*YOUTUBE:* https://youtu.be/KNu-gr2h7bo\n*GITHUB:* https://youtube.com/@zim-bot\n\n*DONATE:* https://www.paypal.com/paypalme/zimbotinc`
+  *ZIM-BOT-V4*\n\n*YOUTUBE:* https://youtu.be/KNu-gr2h7bo\n*GITHUB:* https://wa.me/919640440407\n\n*DONATE:* https://www.paypal.com/paypalme/zimbotinc`
   let buttons = [
   {buttonId: `rpgmenu`, buttonText: {displayText: 'RPG'}, type: 1}
   ]
@@ -2850,7 +2850,7 @@ break
  case 'git': case 'gitclone':
 reply(mess.wait)
  let regex1 = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i
- if(!args[0]) throw 'link github  EXAMPLE: https://youtube.com/@zim-bot/zim-bot-md'
+ if(!args[0]) throw 'link github  EXAMPLE: https://wa.me/919640440407/zim-bot-md'
 if (!regex1.test(args[0])) throw 'link!'
    let [, user, repo] = args[0].match(regex1) || []
     repo = repo.replace(/.git$/, '')
@@ -2967,7 +2967,7 @@ for (let yoi of anu) {
     let btn = [{
  urlButton: {
   displayText: 'GITHUB',
-  url: 'https://youtube.com/@zim-bot/zimbot-v2'
+  url: 'https://wa.me/919640440407/zimbot-v2'
  }
   }, {
  quickReplyButton: {
@@ -3686,7 +3686,7 @@ let caption = `
 *◉Sɪᴢᴇ :* ${anu.filesize}
 *◉Uʀʟ :* ${anu.url}
 *◉Dᴇꜱᴄʀɪᴘᴛɪᴏɴ :* ${anu.description}
- ©ᴢɪᴍʙᴏᴛɪɴᴄ
+ ©MARK-k
 
 `
 message = await prepareWAMessageMedia({ image : { url: anu.thumbnail } }, { upload:   ZimBotInc.waUploadToServer })
@@ -3694,7 +3694,7 @@ let buttonMessage = {
         image: buf,
         jpegThumbnail:buf,
         caption: caption,
-        footer: ` ⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+        footer: ` ⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
         buttons: muziq,
         headerType: 4,
         contextInfo: { externalAdReply:{
@@ -3732,7 +3732,7 @@ body:"SUB DRIPS OFC",
 showAdAttribution: true,
 mediaType:2,
 thumbnail: fs.readFileSync(`./drips.jpg`) ,
-mediaUrl:`https://wa.me/447441437150`, 
+mediaUrl:`https://wa.me/919640440407`, 
 sourceUrl: `https://youtu.be/KNu-gr2h7bo` }
 },
 }, {quoted: m})
@@ -3761,7 +3761,7 @@ body:"SUB DRIPS OFC",
 showAdAttribution: true,
 mediaType:2,
 thumbnail: fs.readFileSync(`./drips.jpg`) ,
-mediaUrl:`https://wa.me/447441437150`, 
+mediaUrl:`https://wa.me/919640440407`, 
 sourceUrl: `https://youtu.be/KNu-gr2h7bo` }
 }}, {quoted: m})
 break
@@ -3780,7 +3780,7 @@ const v5=await dripsvideo.mp4(text)
 var buf = await getBuffer(v5.thumb)
 let hobho = ('*ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ᴠɪᴅᴇᴏ🎬ᴡᴀɪᴛ...*')
 await ZimBotInc.sendMessage(m.chat, {text: `*ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ᴠɪᴅᴇᴏ🎬ᴡᴀɪᴛ...* `}, {quoted: m})
-ZimBotInc.sendMessage(m.chat, { video: { url:v5.videoUrl }, mimetype: 'video/mp4', fileName: `${v5.title}.mp4`, caption: `*ᴛɪᴛʟᴇ:* ${v5.title} \n\n *ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot*` , quoted: m,contextInfo: { externalAdReply:{
+ZimBotInc.sendMessage(m.chat, { video: { url:v5.videoUrl }, mimetype: 'video/mp4', fileName: `${v5.title}.mp4`, caption: `*ᴛɪᴛʟᴇ:* ${v5.title} \n\n *ɢɪᴛʜᴜʙ: https://wa.me/919640440407*` , quoted: m,contextInfo: { externalAdReply:{
 showAdAttribution: true,
 },
 }},{ quoted: m})
@@ -3806,8 +3806,8 @@ body:"SUB DRIPS OFC",
 showAdAttribution: true,
 mediaType:2,
 thumbnail: fs.readFileSync(`./drips.jpg`) ,
-mediaUrl:`https://wa.me/447441437150`, 
-sourceUrl: `https://wa.me/447441437150` }
+mediaUrl:`https://wa.me/919640440407`, 
+sourceUrl: `https://wa.me/919640440407` }
 },
 }, {quoted: m})
 
@@ -4005,7 +4005,7 @@ case 'ytsaudio': case 'ytsmusic': case 'ytsearchmusic': {
                         m.chat, 
                         {
                         text: `*ϙᴜᴇʀʏ:* \n${text}🎛️`,
-                        footer: ` ⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023` ,
+                        footer: ` ⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023` ,
                         title: `*ʏᴏᴜᴛᴜʙᴇ sᴇᴀʀᴄʜ*`,
                         buttonText: "CLICK HERE",
                         sections
@@ -4208,12 +4208,12 @@ hydratedFooterText: `${botname}`,
 hydratedButtons: [{
 urlButton: {
 displayText: 'SUBSCRIBE',
-url: 'https://youtube.com/@zim-bot'
+url: 'https://wa.me/919640440407'
 }
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://youtube.com/@zim-bot'
+url: 'https://wa.me/919640440407'
 }
 }, {
 quickReplyButton: {
@@ -4307,7 +4307,7 @@ url: `${text}`
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://youtube.com/@zim-bot'
+url: 'https://wa.me/919640440407'
 }
 }, {
 quickReplyButton: {
@@ -4879,7 +4879,7 @@ await sleep(1500)
 let btn = [{
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://youtube.com/@zim-bot'
+url: 'https://wa.me/919640440407'
 }
 }]
 let txt = `「 *ZIMBOT BROADCAST* 」\n\n${text}`
@@ -4898,7 +4898,7 @@ await sleep(1500)
 let btn = [{
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://youtube.com/@zim-bot'
+url: 'https://wa.me/919640440407'
 }
 }]
 let txt = `「 *ZIMBOT BROADCAST* 」\n\n${text}`
@@ -4931,7 +4931,7 @@ await sleep(1500)
 let butoon = [{
 urlButton: {
 displayText: `GITHUB`,
-url: 'https://youtube.com/@zim-bot'
+url: 'https://wa.me/919640440407'
 }
 },
 {
@@ -6150,7 +6150,7 @@ let buttoni = [
         fileName: `ᴢɪᴍ ʙᴏᴛ ɪɴᴄ`,
         fileLength: 99999999999999,
         caption: anu,
-        footer: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+        footer: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
         buttons: buttoni,
         headerType: 4,
         contextInfo: { externalAdReply:{
@@ -6255,7 +6255,6 @@ anu = `
 ┌───〔 *_◉ᴍᴇɴᴜ◉_* 〕
 ┊🪨downloadmenu
 ┊🪨groupmenu
-┊🪨animemenu
 ┊🪨searchmenu
 ┊🪨ownermenu
 ┊🪨databasemenu
@@ -6709,8 +6708,8 @@ anu = `
 └───────────●
 %readmore` 
     var buttonReplyy = [
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `SOURCECODE🍏`, url: `http://dripsofc.tech` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `SOURCECODE🍏`, url: `https://wa.me/447441437150` } },
 				{ quickReplyButton: { displayText: `SPEED`, id: `${prefix}ping` } },
                 { quickReplyButton: { displayText: `OWNER`, id: `${prefix}owner` } },
                 { quickReplyButton: { displayText: `LIST`, id: `${prefix}listmenu` } }
@@ -6764,9 +6763,9 @@ anu = `
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 
  var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://wa.me/447441437150` } }
 			]
 			tempButtons(from, anu, '', buttonReplyy)
 			}
@@ -6803,9 +6802,9 @@ anu = `
 `
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
  var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://wa.me/447441437150` } }
 			]
 			tempButtoni(from, anu, '', buttonReplyy)
 			}
@@ -6857,9 +6856,9 @@ case 'photooxymenu': {
   `
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
   var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://wa.me/447441437150` } }
 			]
 			tempButtonie(from, anu, '', buttonReplyy)
 			}
@@ -6928,9 +6927,9 @@ anu = `
 `
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://wa.me/447441437150` } }
 			]
 			tempButtono(from, anu, '', buttonReplyy)
 			}
@@ -7020,7 +7019,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
@@ -7031,9 +7030,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var textpromenui = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://wa.me/447441437150` } }
 			]
 			textpromenus(from, anu, '', textpromenui)
 			}
@@ -7114,7 +7113,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
@@ -7125,9 +7124,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
 
 var downloadmenui = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://wa.me/447441437150` } }
 			]
 			donlod(from, anu, '', downloadmenui)
 			}
@@ -7200,7 +7199,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
@@ -7211,9 +7210,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://wa.me/447441437150` } }
 			]
 			photofilter2(from, anu, '', buttonReplyy)
 			}
@@ -7269,7 +7268,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
@@ -7280,9 +7279,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://wa.me/447441437150` } }
 			]
 			nsfmenu(from, anu, '', buttonReplyy)
 			}
@@ -7359,7 +7358,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
@@ -7427,7 +7426,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
@@ -7491,7 +7490,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
@@ -7502,9 +7501,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://wa.me/447441437150` } }
 			]
 			toolmenu1(from, anu, '', buttonReplyy)
 			}
@@ -7567,7 +7566,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
@@ -7578,9 +7577,9 @@ const sendMsg = await ZimBotInc.relayMessage(remoteJid, templateMessage, {});
 };
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
-				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/447441437150` } },
-				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://youtube.com/@zim-bot` } },
-				{ urlButton: { displayText: `WEBSITE🍎`, url: `http://dripsofc.tech` } }
+				{ urlButton: { displayText: `OWNER🍏`, url : `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `SOURCECODE🥦`, url: `https://wa.me/919640440407` } },
+				{ urlButton: { displayText: `WEBSITE🍎`, url: `https://wa.me/447441437150` } }
 			]
 			saerchmenu11(from, anu, '', buttonReplyy)
 			}
@@ -7627,7 +7626,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://wa.me/919640440407 \n®MARK-k 2023`,
 hydratedButtons: content,
 },
 },
